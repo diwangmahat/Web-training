@@ -1,0 +1,49 @@
+*{
+   background-color: white;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    background-color:skyblue;
+    margin: 0%;
+}
+header{
+    background-color: skyblue;
+    width:1512px;
+    height: 354px;
+}
+#diwang{
+    background: transparent;
+    position: fixed;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    font-style:italic;
+
+}
+ul {
+    
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: skyblue;
+}
+li{
+    
+    background-color: transparent;
+    list-style-type: none;
+    float:right;
+}
+li a {
+    background-color: transparent;
+    font-size: 15px;
+    font-style: italic;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+  }
